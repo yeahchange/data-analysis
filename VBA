@@ -1,0 +1,2 @@
+sub shishi()
+Dim i as integer
